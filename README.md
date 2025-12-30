@@ -1,8 +1,8 @@
 # Newsfeed Aggregator
 
 ## Description
-News aggregator application.
-
+News aggregator application (Instanvi Feeds).
+Aggregates news articles from various sources and data types
 ## Prerequisites
 - Python 3.9+
 - [Poetry](https://python-poetry.org/docs/#installation)
